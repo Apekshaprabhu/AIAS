@@ -1,2 +1,5 @@
 streamlit
 pytube
+pytest
+pytest-mock
+pytest-cov
